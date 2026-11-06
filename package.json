@@ -1,0 +1,12 @@
+{
+  "name": "colonia-olvidada-servidor",
+  "version": "1.0.0",
+  "description": "Servidor de salas online de La Colonia Olvidada (sin dependencias)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
